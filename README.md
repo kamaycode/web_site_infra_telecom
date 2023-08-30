@@ -1,4 +1,4 @@
-# Web Site InfraTelecons S.A
+# Web Site InfraTelecon S.A
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
